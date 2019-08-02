@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>REF - Rational Ess Finder</title>
-        <meta name="description" content="A solver for Standard Quadratic Problems">
-        <link rel="stylesheet" href="main.css">
-    </head>
-    <body>
 
         <h1 align=center>REF - Rational Ess Finder</h1>
         <h2 align=center>A solver for Standard Quadratic Problems</h2>
